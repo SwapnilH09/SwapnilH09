@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Swapnil, @SwapnilH09
-- 👀 I’m interested in Python, Machine learning, Artificial Intelligence, Data Analytics and ETL
-- I’m currently working on running my Juputer Notebooks on AWS, for my case studies.
-- I’m looking to collaborate on ---- I am open to ideas and suggestions. I consider myself noob in this area, and I am ready to put efforts on any decent project.
-- I am quite active on stack overflow, check me out at https://stackoverflow.com/users/8595790/hansrajswapnil
+- 👀 I’m moderately skilled at Python, Machine learning, Computer Vision, NLP, Data Analytics and ETL.
+- I’m currently learning HOW to LEVERAGE CLOUD RESOURCES for training and deployment of machine learning projects.
+- I’m looking to collaborate on ---- I am interested in Learning Algorithms and vectorization of datapoints in machine learning projects.
+- I post answers consistently on stack overflow, check me out at https://stackoverflow.com/users/8595790/hansrajswapnil
 - 📫 How to reach me - DM me @ hansrajswapnil@outlook.com or swapnil.raj@iiitg.ac.in
 
 <!---
