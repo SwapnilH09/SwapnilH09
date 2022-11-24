@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Swapnil, @SwapnilH09
-- 👀 skilled at programming in Python, SQL and Bash Scripting.
-- currently working on creating Data-pipelines and backend applications for a early-stage startup building B2B SaaS solutions.
-- interested to work on technologies like - backend applications in Python, SQL, Redis and Cloud (GCP, AWS)
-- other than my above interests, I am also working on creating big-data pipelines and machine-learning based prediction models.
+- 👀 I am passionate about designing and building softwares to impart value in society.
+- I have built backend-system for an Ecommerce platform following complete Software Development lifecycle
+- currently upskilling myself in Data-structures, algorithms and system design via Online courses and hands-on with problem solving.
+- I have also built a Data-sharing API using Flask and PostgreSQL, and worked on clustering of large datasets like Shanghai Taxi Dataset
 - I post answers consistently on stack overflow, check me out at https://stackoverflow.com/users/8595790/hansrajswapnil
 - 📫 How to reach me - DM me @ hansrajswapnil@outlook.com or swapnil.raj@iiitg.ac.in
 
