@@ -4,7 +4,7 @@
 - I have also developed a Data-sharing API for big buyers to connect the API with their Dashboards, using Flask, PostgreSQL and Docker.
 - currently upskilling myself in Data-structures, algorithms and system design via Online courses and hands-on with problem solving.
 - involved in research projects for data analysis and performed clustering on large datasets like Shanghai Taxi Dataset
-- I post answers consistently on stack overflow, check me out at https://stackoverflow.com/users/8595790/hansrajswapnil
+- I post answers consistently on stack overflow, check my <a href="https://stackoverflow.com/users/8595790/hansrajswapnil">profile</a>
 - 📫 How to reach me - DM me @ hansrajswapnil@outlook.com or swapnil.raj@iiitg.ac.in
 
 <!---
